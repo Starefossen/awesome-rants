@@ -21,6 +21,7 @@
 ## Development
 
 * [Mike Hadlow: Coconut Headphones: Why Agile Has Failed](http://mikehadlow.blogspot.co.uk/2014/03/coconut-headphones-why-agile-has-failed.html)
+* [Dhanji R. Prasanna: The Mythical Man-Month](http://rethrick.com/p/mmm/)
 
 ## Architecture
 
